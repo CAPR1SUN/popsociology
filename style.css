@@ -105,7 +105,6 @@ footer {
 .info-icons-container {
     align-items: center;
     justify-content: center;
-    width: 100%;
     animation: transitionIn 0.75s;
 }
 
